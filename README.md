@@ -26,3 +26,8 @@ On macOS/Linux
 
 # Now in the terminal write the following command to run the application
 streamlit run home.py
+
+
+# You can also  follow this link for user manual
+
+https://drive.google.com/file/d/1kjO-_UJNbGt9qhnYuDQAJJmX1glhbI_R/view?usp=drive_link
