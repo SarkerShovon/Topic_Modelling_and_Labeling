@@ -1,10 +1,10 @@
 # In the project directory create a virtual  environment using following commands in the terminal or powershel
 1.pip install virtualenv
 
-On Windows
+# On Windows#
 2.python -m venv venv
 
-On macOS/Linux
+# On macOS/Linux#
 2.python3 -m venv venv
 
 
